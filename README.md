@@ -2,22 +2,15 @@
 
 Este proyecto es una calculadora simple desarrollada con HTML, CSS y JavaScript.
 
-![Calculadora](Calculator/img - calculator.png)
-
-
 ## Características
 
 - Realiza operaciones de suma, resta, multiplicación y división.
 - Interfaz fácil de usar con botones para ingresar números y operadores.
 - Muestra el resultado de las operaciones en tiempo real.
 
-## Demo
-
-Puedes acceder a una demostración en vivo de la calculadora [aquí](https://example.com).
-
 ## Captura de pantalla
 
-![Calculadora](screenshot.png)
+![Calculadora](calculator.png)
 
 ## Cómo utilizar
 
