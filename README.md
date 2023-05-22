@@ -2,7 +2,7 @@
 
 Este proyecto es una calculadora simple desarrollada con HTML, CSS y JavaScript.
 
-![Calculadora](img/Calculator - calculator.png)
+![Calculadora](Calculator/img - calculator.png)
 
 
 ## Características
@@ -37,5 +37,5 @@ Si deseas personalizar la calculadora, puedes modificar el archivo CSS (`styles.
 ## Autor
 
 - Nombre: Herinyhert Martinez
-- Sitio web: [Tu sitio web (opcional)](https://www.linkedin.com/in/herinyhert-martinez-7b5183126/)
+- Sitio web: [Mi sitio web](https://www.linkedin.com/in/herinyhert-martinez-7b5183126/)
 - Email: herinyhert@gmail.com
